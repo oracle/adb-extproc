@@ -1,4 +1,4 @@
-# Oracle Autonomous Database Extproc Container Image Documentation
+# Oracle Autonomous Database Extproc Container Image Documentatio
 
 adb-extproc container image spawns an Oracle extproc process which allows you to invoke
 external scripts, functions and procedures written in other languages like (Python, C) from within your PL/SQL code.
